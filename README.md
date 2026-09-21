@@ -45,10 +45,4 @@ git clone YOUR_REPOSITORY_URL
 
 Add a screenshot or GIF of your slider here.
 
-## 👨‍💻 Author
-
-**Ramesh Bhai Jivan Bhai**
-
----
-
 ⭐ If you like this project, consider giving it a star!
